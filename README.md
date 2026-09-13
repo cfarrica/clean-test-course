@@ -128,7 +128,7 @@ The front end was originally created using [Create React App](https://create-rea
 
 1.  Install the test dependencies.
 
-        pip install pytest django_mock_queries six coverage
+        pip install pytest six coverage
 
 2.  Run the tests.
 
